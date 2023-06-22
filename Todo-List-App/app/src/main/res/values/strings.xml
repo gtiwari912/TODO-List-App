@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Todo List App</string>
+    <string name="editTextHint">Enter ur task</string>
+    <string name="btnAddTask">Add task</string>
+    <string name="tickImgDescription">Tick Image</string>
+    <string name="rvtasktitle">TextView</string>
+    <string name="priority">Priority:</string>
+    <string name="rvTaskPriority">TextView</string>
+    <string name="delete_button">Delete Button</string>
+</resources>
